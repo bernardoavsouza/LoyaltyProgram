@@ -1,4 +1,4 @@
-# customer-segmentation
+# Loyalty System
 
 This repository contains code and documentation for a data science project. The main goal of this project is to create a loyalty program for e-commerce. All the data used was provided by Kaggle.
 
