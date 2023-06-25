@@ -62,11 +62,11 @@ The main objective of this section is to answer some business questions.
 
 **True:** Premium customers bring 53.16% of the total revenue.
 
-**Hypothesis 6: Cluster _Sub Premium_ I, _Sub Premium_ II and _Premium_ customers added up bring more than 80% of the revenue.**
+**Hypothesis 6: Cluster _Gold_ I, _Sub Premium_, and _Premium_ customers added up bring more than 80% of the revenue.**
 
 **False:** They bring around 71.38%.
 
-**Hypothesis 2: More then 50% of the items sold are bought by _Premium_ customers**
+**Hypothesis 2: More than 50% of the items sold are bought by _Premium_ customers**
 
 **True:** Around 56.46% of the items sold were bought by _Premium_ customers
 
